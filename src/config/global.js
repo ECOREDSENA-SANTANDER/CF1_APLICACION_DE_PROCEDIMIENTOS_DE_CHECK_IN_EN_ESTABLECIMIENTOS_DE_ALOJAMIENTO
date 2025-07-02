@@ -1,7 +1,8 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Alojamiento, todo un universo por descubrir',
+    Description:
+      'Los fundamentos normativos, técnicos y operativos del proceso de Check-in en establecimientos de alojamiento turístico, abordan aspectos clave como la categorización hotelera por estrellas, los tipos de habitaciones y sus características según la categoría, la estructura organizacional del área de recepción, los perfiles del huésped, y el portafolio de servicios complementarios ofrecidos por los hoteles. Todo esto permite comprender los estándares que garantizan la calidad, seguridad y experiencia del cliente en el sector hotelero colombiano.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,20 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo:
+          'Regulación y categorización de los establecimientos de alojamiento turístico',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Categorización de los hoteles ',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Portafolio de servicios en establecimientos de alojamiento',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,14 +57,41 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Tipos de habitaciones y sus características',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo:
+              'Estandarización de habitaciones según categoría hotelera (NTSH-006)',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: '<i>Amenities</i> para habitaciones',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'El huésped en el sector hotelero: definición y tipologías',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Recepción hotelera: centro operativo de atención y gestión',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo:
+              'Estructura organizacional del área del <i>front office</i>',
+            hash: 't_4_1',
+          },
+        ],
       },
     ],
     subMenu: [

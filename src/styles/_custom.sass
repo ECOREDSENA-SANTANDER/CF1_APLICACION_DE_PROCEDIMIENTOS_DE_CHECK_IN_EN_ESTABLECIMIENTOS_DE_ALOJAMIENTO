@@ -3,19 +3,55 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
-    right: 10%
+    right: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 45%
+    right: 75%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 35%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
+.boton *, .boton--sm *
+  color: #fff
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/banner_interno.png") !important
+
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/fondo-banner-principal-movil.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 14% !important 
+    h1, p
+      color: $white
+
+.banner-principal  
+  @media (min-width: 768px) and (max-width: 1024px)
+    .tarjeta
+      background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 8% !important 
+    h1, p
+      color: $white
+
 
 .banner-principal .tarjeta
   background-position: left 50% !important
@@ -27,4 +63,7 @@
   color: $color-primario
 figcaption
   font-weight: normal
- 
+
+.bg1 
+  background-color: #F4EBDC
+  border-radius: 20px
