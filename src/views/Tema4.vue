@@ -66,7 +66,7 @@
           li.d-flex.mb-1
             i.fas.fa-star
             p.mb-0 Auditoría nocturna (turno de 23:00 a 07:00), que incluye cargos a habitaciones, consolidación de ingresos de los centros de consumo y elaboración de informes de cierre diario.
-      .col-lg-4
+      .col-lg-4.col-8.col-md-6
         img(src='@/assets/curso/Tema4/img02.png', alt='')  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -132,7 +132,7 @@
           li.d-flex.mb-1
             i.fas.fa-star
             p.mb-0 Controlar los movimientos financieros relacionados con cuentas de los huéspedes (créditos y débitos), asegurando su correcta aplicación conforme a las directrices de la administración.
-      .col-lg-4
+      .col-lg-4.col-8.col-md-6
         img(src='@/assets/curso/Tema4/img03.png', alt='')  
 
     .row.align-items-center.mb-4
@@ -219,7 +219,7 @@
           li.d-flex.mb-1
             i.fas.fa-star
             p.mb-0 Informar a la dirección sobre incidencias relevantes o situaciones que requieran intervención ejecutiva.
-      .col-lg-4
+      .col-lg-4.col-8.col-md-6
         img(src='@/assets/curso/Tema4/img05.png', alt='')  
 
     .subt.mb-4(data-aos="fade-down")
@@ -265,8 +265,207 @@
             i.fas.fa-star
             p.mb-0 Galería o espacio comercial (en algunos hoteles).
 
-      .col-lg-4
+      .col-lg-4.col-10
         img(src='@/assets/curso/Tema4/img06.png', alt='')  
+
+    .row.justify-content-center.align-items-center.mb-5.fondot4_1
+      .col-lg-12.col-11
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 2.
+          span #[em Hall] o entrada de un hotel
+      .col-lg-10.col-9 
+        img(src='@/assets/curso/Tema4/figura2.png', alt='La figura describe un Hall o entrada de hotel. Este espacio incluye el mostrador de recepción, acceso directo a zonas comunes y áreas de espera con mobiliario para huéspedes. El entorno está dispuesto de forma amplia y funcional, pensado para facilitar el tránsito, la atención al cliente y la conexión con otras áreas del establecimiento. ')
+
+    .row.justify-content-center.align-items-center.mb-5.fondot4(data-aos="fade-down")
+      .col-lg-12.p-4
+        p El área de recepción debe contar con dimensiones apropiadas que permitan la circulación fluida de huéspedes y la operatividad del personal; en particular, debe ser lo suficientemente amplia para albergar grupos turísticos durante los procesos de registro, asignación de habitaciones y distribución de equipaje, sin generar congestión o interferir en otras actividades del #[em lobby.]
+
+    .subt.mb-4(data-aos="fade-down")
+      .row.align-items-center
+        .col-md-auto.col-2
+          img(src='@/assets/curso/Tema4/01.png', alt='')
+        .col-md-auto.col-10.ps-0
+          h3.mb-0.text-white Perfil profesional del recepcionista
+
+    p.mb-3 El recepcionista es una figura clave en la experiencia del huésped. Para desempeñarse con eficiencia, debe contar con un conjunto de conocimientos técnicos, habilidades operativas y competencias personales.
+
+    .row.justify-content-center.mb-4(data-aos="flip-up")
+      .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
+        TabsA.color-acento-botones
+          .tarjeta.color-acento-botones.bg3.p-4(titulo="Requisitos técnicos y funcionales")
+            .row.justify-content-center.align-items-center.mb-2
+              .col-lg-12
+                ul.lista-ul.lista-ul--separador
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Habilidad para comunicarse de manera clara, profesional y empática, tanto de forma oral como escrita.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Manejo competente de herramientas tecnológicas y software especializado en reservas, facturación y control de huéspedes.
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Conocimiento detallado del portafolio de servicios del hotel.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Dominio de idiomas, siendo el inglés el más requerido.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Conocimiento de la oferta turística local y del entorno geográfico.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Capacidad de organización, gestión documental y digitalización de información.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Familiaridad con la normativa vigente relacionada con la operación hotelera.
+          
+          .tarjeta.color-acento-botones.bg3.p-4(titulo="Competencias transversales deseables")
+            .row.justify-content-center.align-items-center.mb-2
+              .col-lg-12
+                ul.lista-ul.lista-ul--separador
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Comunicación asertiva y actitud positiva.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Fuerte orientación al cliente.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Autonomía en la gestión de tareas.
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Trabajo colaborativo.
+
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Competencia digital avanzada.
+
+
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Conocimiento funcional de lenguas extranjeras.
+
+          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habilidades blandas fundamentales")
+            .row.justify-content-center.align-items-center.mb-2
+              .col-lg-12
+                ul.lista-ul.lista-ul--separador
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Amabilidad y cortesía.
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Proactividad y dinamismo.
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Sentido de la responsabilidad.
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Tolerancia al estrés y capacidad de adaptación.
+                  li.d-flex.mb-1
+                    i.fas.fa-star
+                    p.mb-0 Discreción y confidencialidad.
+
+    .subt.mb-4(data-aos="fade-down")
+      .row.align-items-center
+        .col-md-auto.col-2
+          img(src='@/assets/curso/Tema4/01.png', alt='')
+        .col-md-auto.col-10.ps-0
+          h3.mb-0.text-white Secciones del #[em front office]
+
+    p.mb-4 El #[em front office] se estructura generalmente en diversas unidades funcionales, cada una con responsabilidades específicas para garantizar un servicio eficiente:
+
+    .row.justify-content-center.align-items-center.mb-5.slyderazul
+      .col-lg-11.p-4
+        .tarjeta.tarjeta--blanca.p-4
+          SlyderA(tipo="b")
+            .row.align-items-center.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                h4.mb-4 Reservas
+                p Encargada de la gestión integral de las reservas de alojamiento y servicios adicionales, así como del contacto previo con los huéspedes.
+              .col-md-5.col-10
+                img(src='@/assets/curso/Tema4/img07.png', alt='')
+                
+            .row.align-items-center.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                h4.mb-4 Recepción
+                p Punto central de atención al cliente; gestiona #[em Check-in, Check-out], consultas, solicitudes y solución de inconvenientes.
+              .col-md-5.col-10
+                img(src='@/assets/curso/Tema4/img08.png', alt='')
+            .row.align-items-center.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                h4.mb-4 Caja
+                p Responsable del manejo de transacciones económicas, cambio de divisas, emisión de facturas y custodia de valores.
+              .col-md-5.col-10
+                img(src='@/assets/curso/Tema4/img09.png', alt='')
+            .row.align-items-center.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                h4.mb-4 Conserjería
+                p Brinda asistencia personalizada al huésped, información turística, reservas externas y coordinación de servicios complementarios.
+              .col-md-5.col-10
+                img(src='@/assets/curso/Tema4/img10.png', alt='')
+            .row.align-items-center.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                h4.mb-4 Auditor nocturno
+                p Realiza el cierre contable diario, verifica registros, disponibilidad de habitaciones y facilita el traspaso entre turnos operativos.
+              .col-md-5
+                img(src='@/assets/curso/Tema4/img11.png', alt='')
+
+    .subt.mb-4(data-aos="fade-down")
+      .row.align-items-center
+        .col-md-auto.col-2
+          img(src='@/assets/curso/Tema4/01.png', alt='')
+        .col-md-auto.col-10.ps-0
+          h3.mb-0.text-white Relaciones del #[em front office] con otros departamentos
+
+    p.mb-4 El #[em front office] mantiene una relación constante y coordinada con diversos departamentos del hotel, lo que permite una operación integral centrada en la satisfacción del huésped. Las interacciones más frecuentes se dan con:
+
+    .tarjeta--container.row.mb-5(data-aos='fade-right')
+        .col-md.tarjeta.fondoizq.p-5
+          .row.justify-content-center.align-items-center.mt-5
+            .col-4.col-lg-2
+              figure
+                img.mb-4(src='@/assets/curso/Tema4/ico1.png', alt='Texto que describa la imagen')          
+            .col-12.col-lg-9
+              br
+              h2.bg2.text-center.text-white Departamento de ama de llaves
+          p.mb-5.text-white Responsable de la limpieza y mantenimiento de habitaciones y áreas comunes. Informa al #[em front office] sobre la disponibilidad de habitaciones (limpias, listas, en mantenimiento o bloqueadas). También coordina acciones inmediatas ante requerimientos de limpieza adicional o reparaciones solicitadas por los huéspedes.
+          
+        .col-md.tarjeta.fondoder.p-5
+          .row.justify-content-center.align-items-center.mt-5
+            .col-4.col-lg-2
+              figure
+                img.mb-4(src='@/assets/curso/Tema4/ico2.png', alt='Texto que describa la imagen')          
+            .col-12.col-lg-9
+              br
+              h2.bg2.text-center.text-white Departamento de alimentos y bebidas (A&B)
+          p.mb-5.text-white Gestiona el servicio de restauración y bebidas del hotel. Interactúa con recepción para reportar consumos diarios de huéspedes y coordinar su facturación. Además, atiende pedidos especiales realizados por los huéspedes a través de recepción y canaliza retroalimentación, quejas o reconocimientos sobre el servicio.
+
+    .row.justify-content-center.align-items-center.mb-5.fondot4(data-aos="fade-down")
+      .col-lg-12.p-4
+        p La organización y funcionamiento del área de #[em front office] es fundamental para la operación hotelera, ya que representa el primer y último punto de contacto del huésped con el establecimiento. Su adecuada estructura jerárquica, la claridad en las funciones de cada cargo, la interacción coordinada con otros departamentos y la capacitación del personal garantizan una atención eficiente, profesional y orientada a la satisfacción del cliente. La excelencia en este servicio no solo influye en la experiencia del huésped, sino que también fortalece la reputación y competitividad del hotel en el sector turístico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
