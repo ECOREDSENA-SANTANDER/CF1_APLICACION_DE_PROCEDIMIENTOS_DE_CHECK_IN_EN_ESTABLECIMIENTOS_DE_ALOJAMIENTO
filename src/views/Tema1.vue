@@ -106,124 +106,248 @@
                 .col-md-6.col-lg-5.col-9
                   img(src='@/assets/curso/Tema1/img05.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
-                  ol.lista-ol--cuadro
+                  ol.lista-ol--cuadro.d-flex
                     li.d-flex
                     .lista-ol--cuadro__vineta
                       span a
-                    |Contar con un área habilitada con mostrador para el registro de huéspedes.
-                  ol.lista-ol--cuadro
-                    li.d-flex
+                    p Contar con un área habilitada con mostrador para el registro de huéspedes.
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span b
-                    |Asegurar que la zona exterior inmediata al establecimiento esté limpia, bien iluminada y libre de obstáculos que impidan el acceso directo.
+                    p Asegurar que la zona exterior inmediata al establecimiento esté limpia, bien iluminada y libre de obstáculos que impidan el acceso directo.
 
-                  ol.lista-ol--cuadro
-                    li.d-flex
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span c
-                    |Disponer de una caja o cajilla de seguridad.
+                    p Disponer de una caja o cajilla de seguridad.
             
-            .relleno.py-3.py-md-4(titulo="Hotel 1 estrella").fondotabs
+            .relleno.py-3.py-md-4(titulo="Hotel 2 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
                 .col-md-6.col-lg-5.col-9
-                  img(src='@/assets/curso/Tema1/img05.png', alt='')
+                  img(src='@/assets/curso/Tema1/img06.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
-                  ol.lista-ol--cuadro
+                  ol.lista-ol--cuadro.d-flex
                     li.d-flex
                     .lista-ol--cuadro__vineta
                       span a
-                    |Contar con un área habilitada con mostrador para el registro de huéspedes.
-                  ol.lista-ol--cuadro
-                    li.d-flex
+                    p Contar con un área habilitada con mostrador para el registro de huéspedes.
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span b
-                    |Asegurar que la zona exterior inmediata al establecimiento esté limpia, bien iluminada y libre de obstáculos que impidan el acceso directo.
+                    p Garantizar que la zona exterior inmediata esté limpia, iluminada y sin barreras que dificulten el ingreso directo.
 
-                  ol.lista-ol--cuadro
-                    li.d-flex
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span c
-                    |Disponer de una caja o cajilla de seguridad.
+                    p Disponer de una caja o cajilla de seguridad.
             
-            .relleno.py-3.py-md-4(titulo="Hotel 1 estrella").fondotabs
+            .relleno.py-3.py-md-4(titulo="Hotel 3 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
                 .col-md-6.col-lg-5.col-9
-                  img(src='@/assets/curso/Tema1/img05.png', alt='')
+                  img(src='@/assets/curso/Tema1/img07.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
-                  ol.lista-ol--cuadro
+                  ol.lista-ol--cuadro.d-flex
                     li.d-flex
                     .lista-ol--cuadro__vineta
                       span a
-                    |Contar con un área habilitada con mostrador para el registro de huéspedes.
-                  ol.lista-ol--cuadro
-                    li.d-flex
+                    p.mb-0 Contar con un área habilitada con mostrador para el registro de huéspedes.
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span b
-                    |Asegurar que la zona exterior inmediata al establecimiento esté limpia, bien iluminada y libre de obstáculos que impidan el acceso directo.
+                    p.mb-0 Mantener la zona exterior inmediata limpia, bien iluminada y libre de obstáculos.
 
-                  ol.lista-ol--cuadro
-                    li.d-flex
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span c
-                    |Disponer de una caja o cajilla de seguridad.
+                    p.mb-0 Proveer convertidores de voltaje y adaptadores de corriente a solicitud del huésped.
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span d
+                    p.mb-0 Disponer de caja o cajilla de seguridad.
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span e
+                    p.mb-0 Contar con un espacio cerrado y amplio que permita custodiar de forma segura el equipaje de los huéspedes, asegurando su identificación clara y la correcta entrega a sus propietarios.
             
-            .relleno.py-3.py-md-4(titulo="Hotel 1 estrella").fondotabs
+            .relleno.py-3.py-md-4(titulo="Hotel 4 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
                 .col-md-6.col-lg-5.col-9
-                  img(src='@/assets/curso/Tema1/img05.png', alt='')
+                  img(src='@/assets/curso/Tema1/img08.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
-                  ol.lista-ol--cuadro
+                  ol.lista-ol--cuadro.d-flex
                     li.d-flex
                     .lista-ol--cuadro__vineta
                       span a
-                    |Contar con un área habilitada con mostrador para el registro de huéspedes.
-                  ol.lista-ol--cuadro
-                    li.d-flex
+                    p.mb-0 Disponer de un área con mostrador para el registro de huéspedes.
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span b
-                    |Asegurar que la zona exterior inmediata al establecimiento esté limpia, bien iluminada y libre de obstáculos que impidan el acceso directo.
+                    p.mb-0 Contar con una sala de recibo independiente del área de recepción.
 
-                  ol.lista-ol--cuadro
-                    li.d-flex
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span c
-                    |Disponer de una caja o cajilla de seguridad.
+                    p.mb-0 Garantizar que el acceso exterior inmediato esté limpio, iluminado y libre de obstáculos.
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span d
+                    p.mb-0 Tener un espacio independiente para la recepción de asistentes a eventos (cuando aplique).
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span e
+                    p.mb-0 Ofrecer convertidores de voltaje y adaptadores de corriente bajo solicitud.
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span f
+                    p.mb-0 Contar con caja o cajilla de seguridad.
+
+                  
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span g
+                    p.mb-0 Disponer de un área cerrada y segura para el almacenamiento de equipaje, con identificación visible que garantice su entrega al propietario correspondiente.
             
-            .relleno.py-3.py-md-4(titulo="Hotel 1 estrella").fondotabs
+            .relleno.py-3.py-md-4(titulo="Hotel 5 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
                 .col-md-6.col-lg-5.col-9
-                  img(src='@/assets/curso/Tema1/img05.png', alt='')
+                  img(src='@/assets/curso/Tema1/img09.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
-                  ol.lista-ol--cuadro
+                  ol.lista-ol--cuadro.d-flex
                     li.d-flex
                     .lista-ol--cuadro__vineta
                       span a
-                    |Contar con un área habilitada con mostrador para el registro de huéspedes.
-                  ol.lista-ol--cuadro
-                    li.d-flex
+                    p.mb-0 Contar con un área habilitada con mostrador para el registro de huéspedes.
+
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span b
-                    |Asegurar que la zona exterior inmediata al establecimiento esté limpia, bien iluminada y libre de obstáculos que impidan el acceso directo.
+                    p.mb-0 Tener una sala de recibo independiente del área de recepción.
 
-                  ol.lista-ol--cuadro
-                    li.d-flex
+
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
                     .lista-ol--cuadro__vineta
                       span c
-                    |Disponer de una caja o cajilla de seguridad.
+                    p.mb-0 Garantizar condiciones óptimas en la zona exterior inmediata: limpieza, iluminación y accesibilidad.
 
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span d
+                    p.mb-0 Disponer de un espacio separado para recibir a asistentes a eventos (cuando sea aplicable).
+
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span e
+                    p.mb-0 Ofrecer convertidores de voltaje y adaptadores de corriente a solicitud del huésped.
+
+
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span f
+                    p.mb-0 Contar con caja o cajilla de seguridad.
+
+
+                  
+                  ol.lista-ol--cuadro.d-flex
+                    li
+                    .lista-ol--cuadro__vineta
+                      span g
+                    p.mb-0Tener un área amplia y cerrada destinada a la custodia segura del equipaje, con sistemas de identificación que aseguren su correcta entrega.
 
       p.mb-3 La presente norma tiene como objeto definir la clasificación de los establecimientos de alojamiento y hospedaje, mediante la categorización por estrellas para los hoteles en las modalidades 1, 2, 3, 4 y 5, de acuerdo con los requisitos de planta, de accesibilidad y de servicio.
 
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-9
+          .tarjeta.color-primario.p-4.mb-4(data-aos="fade-right")
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1
+                img(src="@/assets/curso/Tema1/img002.png")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-2 Norma Técnica Sectorial Colombiana NTSH 006, primera actualización. Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos. 2009.
+                  .col-sm-auto
+                    a.boton.color-acento-botones(href="https://fontur.com.co/sites/default/files/2020-11/NTSH006.pdf" target="_blank")
+                      span Descargar
+                      i.fas.fa-file-download
+                .row.justify-content-between.align-items-center  
+                  .col.mb-3.mb-sm-0
+                    p.mb-0.bg8 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
+        .col-lg-3
+          img(src='@/assets/curso/Tema1/img10.png', alt='')
 
+      separador
+      #t_1_2.titulo-segundo.mb-5
+        h2 1.2  Portafolio de servicios en establecimientos de alojamiento
 
+      .row.justify-content-center(data-aos="fade-left").mb-3
+        .col-lg-9
+          .row.justify-content-center.align-items-center.mb-2
+            .col-lg-12
+              .row.justify-content-center.align-items-center.bg1
+                .col-lg-6.col-6.col-md-8.p-0.d-none.d-lg-block
+                  img(src='@/assets/curso/Tema1/img11.png', alt='')
+                .col-lg-6.p-4
+                  p El portafolio de servicios es un documento institucional, físico o digital, conocido como #[em brochure], el cual reúne de manera organizada y detallada la oferta de servicios que presta un establecimiento de alojamiento y hospedaje, en concordancia con los diferentes departamentos que lo integran. Su propósito principal es comunicar a los clientes actuales y potenciales las ventajas, beneficios y alcances de los servicios disponibles, funcionando como una herramienta de presentación y posicionamiento comercial.
+          .row 
+            .col-lg-12 
+              p establecimiento, incluyendo aspectos como el nombre comercial, años de operación, misión, visión, objetivos organizacionales, socios estratégicos, proveedores, clientes atendidos y datos de contacto, entre otros elementos relevantes (Carvajal, 2016).
+              p El portafolio no solo facilita la toma de decisiones por parte del cliente, sino que también proyecta la imagen institucional del establecimiento, fortaleciendo su credibilidad y diferenciación en el mercado.
+        .col-lg-3
+          img(src='@/assets/curso/Tema1/img12.png', alt='')
 
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-9
+          .tarjeta.color-primario.p-4.mb-4(data-aos="fade-right")
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1
+                img(src="@/assets/curso/Tema1/img003.png")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-2 Definición del portafolio
+                  
+                .row.justify-content-between.align-items-center  
+                  .col.mb-3.mb-sm-0
+                    p.mb-0.bg8 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://youtu.be/mkIdPKBfpXc" target="_blank")
+                  span Ir al sitio
+                  i.fas.fa-file-download  
+        .col-lg-3.mb-3
+          img(src='@/assets/curso/Tema1/img10.png', alt='')
 
-
-
-
-
-
-
+        p El portafolio de servicios de un establecimiento hotelero incluye una oferta diferenciada de servicios complementarios, los cuales varían según la categoría del hotel; esta oferta responde tanto a las necesidades básicas de los huéspedes como a su expectativa de confort, bienestar y recreación durante su estancia.
 
 
 
