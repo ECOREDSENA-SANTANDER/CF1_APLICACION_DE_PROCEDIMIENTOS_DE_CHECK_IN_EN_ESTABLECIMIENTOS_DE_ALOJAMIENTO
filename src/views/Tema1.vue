@@ -349,14 +349,177 @@
 
         p El portafolio de servicios de un establecimiento hotelero incluye una oferta diferenciada de servicios complementarios, los cuales varían según la categoría del hotel; esta oferta responde tanto a las necesidades básicas de los huéspedes como a su expectativa de confort, bienestar y recreación durante su estancia.
 
+      .row.justify-content-center.mb-5
+        .col-lg-3.col-7.col-md-5.mb-3
+          img(src='@/assets/curso/Tema1/img13.png', alt='')
+        .col-lg-9
+          AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+              .row.justify-content-center.align-items-start(titulo="En los hoteles de 1 y 2 estrellas")
+                .col-md-11
+                  .row.justify-content-center.align-items-center.p-4
+                    .col-lg-12
+                      p Los servicios complementarios básicos suelen limitarse a:
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Camas con colchones rotados según cronograma.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Servicio de teléfono.
+
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Servicios adicionales como la gestión de reservaciones para tours turísticos.
+                      
+                  
+              
+              .row.justify-content-center.align-items-start(titulo="En los hoteles de 3 estrellas")
+                .col-md-11
+                  .row.justify-content-center.align-items-center.p-4
+                    .col-lg-12
+                      p Se incorporan servicios más diversos. Entre los complementarios básicos se encuentran:
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Teléfono público disponible para los huéspedes.
 
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Información sobre servicios de restaurante, comedor y otras áreas complementarias del hotel.
 
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Un equipo de cómputo con acceso a internet.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Servicio de lavandería.
+                      
+                
+              
+              .row.justify-content-center.align-items-start(titulo="Servicios adicionales")
+                .col-md-11
+                  .row.justify-content-center.align-items-center.p-4
+                    .col-lg-12
+                      p Como servicios adicionales, estos hoteles pueden ofrecer:
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Gestión de reservación de tours y espectáculos locales.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Alquiler de vehículos.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Diversos medios de pago habilitados para comodidad del huésped.
+              
+              .row.justify-content-center.align-items-start(titulo="En los hoteles de 4 estrellas")
+                .col-md-11
+                  .row.justify-content-center.align-items-center.p-4
+                    .col-lg-12
+                      p La gama de servicios se amplía tanto en lo básico como en lo complementario.
+                      p Los servicios básicos incluyen:
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Teléfono disponible en áreas públicas.
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Información completa sobre servicios de alimentación y otros complementarios.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Centro de negocios con al menos dos equipos de cómputo con #[em software] actualizado (incluyendo fotocopiadora, impresora, acceso a internet y teléfono).
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Servicio de lavandería.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Servicio de salón de belleza (propio o contratado).
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Servicio de asistencia médica 24 horas (propio o contratado).
+              
+              .row.justify-content-center.align-items-start(titulo="Servicios adicionales")
+                .col-md-11
+                  .row.justify-content-center.align-items-center.p-4
+                    .col-lg-12
+                      p Entre los servicios adicionales figuran:
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Reservas para #[em tours] y espectáculos.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Acceso facilitado a servicios médicos.
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Seguro para huéspedes.
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Alquiler de vehículos.
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Pagos habilitados en múltiples plataformas.
+                     
+              .row.justify-content-center.align-items-start(titulo="Los hoteles de 5 estrellas")
+                .col-md-11
+                  .row.justify-content-center.align-items-center.p-4
+                    .col-lg-12
+                      p Deben ofrecer, además de los anteriores, un nivel superior de atención.
+                      p Entre sus servicios básicos se encuentran:
+                      ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Teléfono disponible en todas las áreas comunes.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Información detallada sobre los servicios del hotel.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Centro secretarial o de negocios con condiciones avanzadas de operación.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Lavandería profesional.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Salón de belleza y asistencia médica permanente dentro de las instalaciones, ya sea propio o tercerizado.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Venta directa de productos artesanales nacionales dentro del establecimiento o en su entorno inmediato.
+      
+      .row.justify-content-center.align-items-center.mb-4.fondot4(data-aos="fade-down")
+        .col-lg-12.p-3
+          .row.justify-content-center
+            .col-lg-11
+              p En general, los establecimientos de 3, 4 y 5 estrellas, al contar con una mayor infraestructura y especialización por áreas, disponen de una estructura organizacional interna que permite ofrecer servicios complementarios a través de diferentes departamentos. 
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12.col-11
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Tabla 1.
+            span Departamentos o áreas y servicios del hotel
+          .tabla-a.color-acento-contenido(alt='La tabla presenta los departamentos o áreas principales de un establecimiento de alojamiento y sus funciones. Destaca áreas como recepción, alimentos y bebidas, lavandería, entretenimiento, mantenimiento y servicios adicionales. Cada departamento cumple un rol específico para garantizar la calidad, el confort y la experiencia integral del huésped durante su estancia.')
+            table
+              thead
+                tr
+                  th Departamentos
+                  th Característica
+              tbody
+                tr
+                  th Departamento de alojamiento
+                  td Conformado por las áreas de recepción, conserjería y pisos. Es responsable de garantizar la calidad de la estancia, desde la reserva hasta el Check-out, incluyendo la supervisión del estado de las habitaciones.
+                tr
+                  th Departamento de recepción
+                  td Administra el ingreso, permanencia y salida de los huéspedes. Además, centraliza la atención de solicitudes, reclamos o necesidades especiales, y coordina la información diaria que se transmite a otras áreas del hotel. Brinda servicios como botones, conserjería y llamadas de despertador.
+                tr
+                  th Departamento de alimentos y bebidas
+                  td Encargado de gestionar el restaurante, cocina, banquetes, barras, room service y utilería. Representa una de las principales fuentes de ingresos complementarios del hotel.
+                
 
 
 
