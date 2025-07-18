@@ -125,7 +125,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/ejemplo.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -141,21 +141,139 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'El huésped en el sector hotelero: definición y tipologías',
+      referencia:
+        'CorporateMX. (2017). Clasificación de los huéspedes de hotel.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=8SUt5UhQHxQ',
+    },
+    {
+      tema: 'Recepción hotelera: centro operativo de atención y gestión',
+      referencia:
+        'FEHGRA. (2024). 3.1 – Recepción y Conserjería: Presentación.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=-SOeT93GJJ8',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Áreas comunes',
+      significado:
+        'Son los espacios compartidos por todos los huéspedes como pasillos, escaleras, entradas, patios, jardines, piscinas, canchas deportivas, salones de uso múltiples, estacionamientos, entre otros. ',
+    },
+    {
+      termino: 'Banquetes',
+      significado:
+        'Comida a la que concurren muchas personas para celebrar algún acontecimiento.',
+    },
+    {
+      termino: 'Barman',
+      significado:
+        'Persona encargada de atender a los clientes detrás de la barra y prestar los servicios propios de un bar.',
+    },
+    {
+      termino: 'Barras',
+      significado:
+        'Mostradores de bar o zonas de servicio donde se sirven bebidas y, a veces comida.',
+    },
+
+    {
+      termino: 'Categoría',
+      significado:
+        'Sistema de clasificación utilizado para indicar a los usuarios la calidad de un establecimiento alojativo. ',
+    },
+    {
+      termino: 'Conserjería',
+      significado:
+        'Departamento ubicado en la recepción o próximo a ésta, desde el que se coordinan y proveen los servicios de atención al cliente. ',
+    },
+    {
+      termino: '<i>Coworking</i>',
+      significado:
+        'Áreas de trabajo, salas de reuniones, zonas de descanso y conexión a internet diseñados para facilitar el trabajo y la colaboración. ',
+    },
+    {
+      termino: '<i>Check-in</i>',
+      significado: 'Registro de entrada.',
+    },
+    {
+      termino: '<i>Check-out</i>',
+      significado: 'Registro de salida.',
+    },
+    {
+      termino: 'Expectativa',
+      significado:
+        'Es lo que un turista anticipadamente espera que ocurra durante su viaje. ',
+    },
+    {
+      termino: '<i>Jacuzzi</i>',
+      significado: 'Bañera de hidromasaje.',
+    },
+    {
+      termino: '<i>Maître</i>',
+      significado:
+        'Jefe de comedor y máximo responsable de planificar, organizar, gestionar y controlar el servicio de comedor en hoteles y restaurantes. ',
+    },
+    {
+      termino: 'Mozo',
+      significado:
+        'Mozo/camarero de salón que atiende en el comedor o restaurante, tomando pedidos y sirviendo alimentos y bebidas. ',
+    },
+    {
+      termino: '<i>Room service</i>',
+      significado:
+        'Servicio de alimentos y bebidas que se presta en una habitación. ',
+    },
+    {
+      termino: '<i>Souvenir</i>',
+      significado:
+        'Objeto que sirve como recuerdo de la visita a algún lugar determinado.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Instituto Colombiano de Normas Técnicas y Certificación [ICONTEC]. (2009). Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos. https://www.mincit.gov.co/getattachment/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales/nts-alojamiento-y-hospedaje-1/norma-tecnica-sectorial-colombiana-ntsh-006-i-actu/norma-tecnica-sectorial-colombiana-ntsh-006-i.pdf.aspx',
+      link: '',
+    },
+    {
+      referencia:
+        'Cuboshomes. (2022). ¿Qué son los amenities y por qué son importantes? - Blog Cubos Holiday Homes. Blog Cubo’s Holiday Homes. https://www.cuboshomes.com/blog/que-son-los-amenities-y-por-que-son-importantes/',
+      link: '',
+    },
+    {
+      referencia:
+        'Moshé, K., & Lastor, C. (2024). Diseño de sistema de señalética para indicar a los huéspedes reales y potenciales, las diferentes áreas internas y externas del Hotel California Pacific Palm. Escuintla, Guatemala, 2023 (Doctoral dissertation). ',
+      link: '',
+    },
+    {
+      referencia:
+        'Martín, F. J. S. (2014). La actuación lexicográfica en el “Diccionario de la Lengua Española”(DRAE): Estudio de las novedades para la 23ª edición. Anuari de Filologia. Estudis de Lingüística, (4), 43-69. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Cloudbeds. (2024). 10 tipos de huéspedes de hotel: ejemplos y perfiles de clientes. Cloudbeds. https://www.cloudbeds.com/es/articulos/tipos-huespedes-hotel/ ',
+      link: '',
+    },
+    {
+      referencia:
+        'Chan, Z. (2016). Estructura organizacional de recepción. www.academia.edu. https://www.academia.edu/28413740/Estructura_organizacional_de_recepci%C3%B3n ',
+      link: '',
+    },
+    {
+      referencia:
+        'Educaweb. (s. f.). Recepcionista de hotel. Educaweb. https://www.educaweb.com/profesion/recepcionista-hotel-130/',
+      link: '',
+    },
+    {
+      referencia:
+        'Farré, R. R. (2017). Gestión de reservas y procedimientos de recepción. Editorial Síntesis. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Calle, M., Lazo, A., & Granados, M. (2018). Gestión del sector alojamiento-Hotel. Machala: UTMACH. ',
       link: '',
     },
   ],
@@ -179,9 +297,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aurora Milena Parada Ortega',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroturístico – Regional Santander ',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico – Regional Santander ',
         },
       ],
     },
@@ -189,18 +312,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -209,13 +332,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

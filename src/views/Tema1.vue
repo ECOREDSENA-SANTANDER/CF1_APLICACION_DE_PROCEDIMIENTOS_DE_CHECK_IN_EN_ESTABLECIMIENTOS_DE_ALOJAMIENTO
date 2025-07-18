@@ -21,7 +21,7 @@
 
       p.mb-3 En cuanto a los establecimientos de alojamiento, el artículo 78 de la Ley 300 de 1996, en su capítulo II, define a los establecimientos hoteleros o de hospedaje como el conjunto de bienes, de propiedad de personas naturales o jurídicas, destinados a la prestación del servicio de alojamiento no permanente (período inferior a 30 días), con o sin oferta de alimentación, servicios básicos, complementarios o accesorios. Esta actividad se realiza bajo la figura contractual del contrato de hospedaje, enmarcando legalmente la operación de dichos establecimientos.
       
-      .tarjeta.color-primario.p-4.mb-4(data-aos="fade-right")
+      .tarjeta.color-primario.p-3.mb-4(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/Tema1/img02.png")
@@ -29,7 +29,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-2 Ley 300 de 1996. 
-              .col-sm-auto
+              .col-sm-auto.mb-2
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=8634#300" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-download
@@ -52,7 +52,7 @@
         h2 1.1  Categorización de los hoteles 
 
       .row.justify-content-center.mb-5
-        .col-lg-5.mb-3
+        .col-lg-5.mb-3.col-10
           img(src='@/assets/curso/Tema1/11.png', alt='')
         .col-lg-7
           p Existen diversas categorías hoteleras que se determinan con base en las comodidades, servicios e infraestructura ofrecidos al huésped, aspectos que inciden directamente en su nivel de confort y bienestar. El sistema de clasificación más común es el de estrellas, en el cual un hotel de cinco estrellas representa el estándar más alto de calidad y servicio, mientras que uno de una estrella ofrece condiciones básicas y limitadas.
@@ -78,7 +78,7 @@
         .col-lg-7.mb-3
           p Actualmente, gran parte de la cadena hotelera del país mantiene su organización de servicios y estándares de calidad con base en los lineamientos de la NTSH-006. La asignación visible de una categoría (de una a cinco estrellas) implica que el establecimiento ha cumplido con los requisitos exigidos para ese nivel, conforme a la norma.
           p La NTSH-006 evalúa la categorización hotelera considerando aspectos fundamentales como los requisitos de planta física, condiciones de accesibilidad, calidad del servicio y cumplimiento de la normatividad legal vigente. 
-        .col-lg-5
+        .col-lg-5.col-10
           img(src='@/assets/curso/Tema1/img04.png', alt='')
         
 
@@ -103,7 +103,7 @@
           TabsC
             .relleno.py-3.py-md-4(titulo="Hotel 1 estrella").fondotabs
               .row.justify-content-center.align-items-center.p-4
-                .col-md-6.col-lg-5.col-9
+                .col-md-6.col-lg-5.col-9.mb-2
                   img(src='@/assets/curso/Tema1/img05.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
                   ol.lista-ol--cuadro.d-flex
@@ -125,7 +125,7 @@
             
             .relleno.py-3.py-md-4(titulo="Hotel 2 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
-                .col-md-6.col-lg-5.col-9
+                .col-md-6.col-lg-5.col-9.mb-2
                   img(src='@/assets/curso/Tema1/img06.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
                   ol.lista-ol--cuadro.d-flex
@@ -149,7 +149,7 @@
             
             .relleno.py-3.py-md-4(titulo="Hotel 3 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
-                .col-md-6.col-lg-5.col-9
+                .col-md-6.col-lg-5.col-9.mb-2
                   img(src='@/assets/curso/Tema1/img07.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
                   ol.lista-ol--cuadro.d-flex
@@ -184,7 +184,7 @@
             
             .relleno.py-3.py-md-4(titulo="Hotel 4 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
-                .col-md-6.col-lg-5.col-9
+                .col-md-6.col-lg-5.col-9.mb-2
                   img(src='@/assets/curso/Tema1/img08.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
                   ol.lista-ol--cuadro.d-flex
@@ -232,7 +232,7 @@
             
             .relleno.py-3.py-md-4(titulo="Hotel 5 estrellas").fondotabs
               .row.justify-content-center.align-items-center.p-4
-                .col-md-6.col-lg-5.col-9
+                .col-md-6.col-lg-5.col-9.mb-2
                   img(src='@/assets/curso/Tema1/img09.png', alt='')
                 .col-md-10.col-lg-6.mb-md-0
                   ol.lista-ol--cuadro.d-flex
@@ -296,14 +296,14 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-2 Norma Técnica Sectorial Colombiana NTSH 006, primera actualización. Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos. 2009.
-                  .col-sm-auto
+                  .col-sm-auto.mb-2
                     a.boton.color-acento-botones(href="https://fontur.com.co/sites/default/files/2020-11/NTSH006.pdf" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
                 .row.justify-content-between.align-items-center  
                   .col.mb-3.mb-sm-0
                     p.mb-0.bg8 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
-        .col-lg-3
+        .col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/Tema1/img10.png', alt='')
 
       separador
@@ -323,7 +323,7 @@
             .col-lg-12 
               p establecimiento, incluyendo aspectos como el nombre comercial, años de operación, misión, visión, objetivos organizacionales, socios estratégicos, proveedores, clientes atendidos y datos de contacto, entre otros elementos relevantes (Carvajal, 2016).
               p El portafolio no solo facilita la toma de decisiones por parte del cliente, sino que también proyecta la imagen institucional del establecimiento, fortaleciendo su credibilidad y diferenciación en el mercado.
-        .col-lg-3
+        .col-lg-3.col-7.col-md-5
           img(src='@/assets/curso/Tema1/img12.png', alt='')
 
       .row.justify-content-center.align-items-center.mb-5
@@ -344,7 +344,7 @@
                 a.boton.color-acento-botones(href="https://youtu.be/mkIdPKBfpXc" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-download  
-        .col-lg-3.mb-3
+        .col-lg-3.mb-3.d-none.d-lg-block
           img(src='@/assets/curso/Tema1/img10.png', alt='')
 
         p El portafolio de servicios de un establecimiento hotelero incluye una oferta diferenciada de servicios complementarios, los cuales varían según la categoría del hotel; esta oferta responde tanto a las necesidades básicas de los huéspedes como a su expectativa de confort, bienestar y recreación durante su estancia.
@@ -498,7 +498,7 @@
             .col-lg-11
               p En general, los establecimientos de 3, 4 y 5 estrellas, al contar con una mayor infraestructura y especialización por áreas, disponen de una estructura organizacional interna que permite ofrecer servicios complementarios a través de diferentes departamentos. 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.mb-5
         .col-lg-12.col-11
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Tabla 1.
@@ -507,8 +507,8 @@
             table
               thead
                 tr
-                  th Departamentos
-                  th Característica
+                  th.w-25 Departamentos
+                  th.w-75 Característica
               tbody
                 tr
                   th Departamento de alojamiento
@@ -520,16 +520,107 @@
                   th Departamento de alimentos y bebidas
                   td Encargado de gestionar el restaurante, cocina, banquetes, barras, room service y utilería. Representa una de las principales fuentes de ingresos complementarios del hotel.
                 
+                tr
+                  th Área de lavandería
+                  td Realiza el lavado, desinfección y mantenimiento de lencería (sábanas, toallas, fundas, etc.) y ofrece servicios de lavandería para huéspedes.
+                tr
+                  th Áreas de entretenimiento y bienestar
+                  td Diseñadas para la relajación y la interacción social, incluyen:
+                    .py-2
+                    ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  #[em Spa]
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  #[em Jacuzzi]
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Zonas húmedas (sauna, turco)
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Piscina
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Gimnasio
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Juegos de mesa
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Actividades al aire libre (canchas deportivas)
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Discoteca
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Bar
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Espectáculos en vivo
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0   Áreas infantiles
+                tr
+                  th Departamento de #[em marketing] y recreación
+                  td Organiza actividades de valor agregado para los huéspedes, tales como:
+                    .py-2
+                    ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  #[em] Tours guiados a sitios de interés.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0   Senderismo.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Eventos sociales, empresariales o culturales.
+                tr
+                  th Departamento de mantenimiento
+                  td Se encarga del correcto funcionamiento de las instalaciones. Realiza inspecciones periódicas y atiende con prontitud los requerimientos de reparación y mantenimiento en habitaciones, áreas comunes y servicios generales.
+                tr
+                  th Servicios adicionales del establecimiento
+                  td
+                    ul.lista-ul--color
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Acceso a internet (wifi).
 
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0   Espacios de #[em coworking].
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Salones para fumadores.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Alquiler de equipos deportivos.
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0  Áreas #[em pet friendly.]
+                        li.d-flex
+                          i.fas.fa-star
+                          p.mb-0 Servicio de parqueadero.
 
-
-
-
-
-
-
-
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          .tarjeta.color-primario.p-4.mb-4(data-aos="fade-right")
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1
+                img(src="@/assets/curso/Tema1/pdf.png")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-2 La Gloria – Mompox – Hotel 
+                  
+                .row.justify-content-between.align-items-center  
+                  .col.mb-3.mb-sm-0
+                    p.mb-0.bg8 Revise un ejemplo de portafolio de servicios de establecimiento de alojamiento:
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://bespokecolombia.com/wp-content/uploads/2019/05/Portafolio-hotel-la-gloria.pdf" target="_blank")
+                  span Descargar
+                  i.fas.fa-file-download  
 
 
 
