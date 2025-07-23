@@ -9,12 +9,12 @@
     
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-12
-          .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-            .bloque-texto-g__img(
+          .bloque-texto-g.color-primario.p-1.p-sm-4.p-md-5
+            .bloque-texto-g__img.custom-img(
               :style="{'background-image': `url(${require('@/assets/curso/Tema1/img01.png')})`}"
             )
-            .bloque-texto-g__texto.p-4
-              p.mb-5 El proceso de formalización en el sector turístico colombiano se sustenta en un marco normativo que reconoce la importancia estratégica del turismo para el desarrollo económico y social del país. Este marco tiene como base la Ley General de Turismo (Ley 300 de 1996), la cual ha sido objeto de modificaciones a través de la Ley 1101 de 2006 y posteriormente por la Ley 1558 de 2012.
+            .bloque-texto-g__texto.custom-text.p-4.text-white
+              p.mb-3 El proceso de formalización en el sector turístico colombiano se sustenta en un marco normativo que reconoce la importancia estratégica del turismo para el desarrollo económico y social del país. Este marco tiene como base la Ley General de Turismo #[b (Ley 300 de 1996)], la cual ha sido objeto de modificaciones a través de la #[b Ley 1101 de 2006] y posteriormente por la #[b Ley 1558 de 2012].
                 br
                 br
                 | La Ley 1558 de 2012, al modificar el artículo 1.º de la Ley 300 de 1996, resalta que el turismo constituye una industria esencial para el desarrollo nacional y territorial, con un rol social que demanda protección y promoción especial por parte del Estado.
@@ -369,7 +369,7 @@
 
                         li.d-flex
                           i.fas.fa-star
-                          p.mb-0 Servicios adicionales como la gestión de reservaciones para tours turísticos.
+                          p.mb-0 Servicios adicionales como la gestión de reservaciones para #[em tours] turísticos.
                       
                   
               
@@ -406,7 +406,7 @@
                       ul.lista-ul--color
                         li.d-flex
                           i.fas.fa-star
-                          p.mb-0 Gestión de reservación de tours y espectáculos locales.
+                          p.mb-0 Gestión de reservación de #[em tours] y espectáculos locales.
                         li.d-flex
                           i.fas.fa-star
                           p.mb-0 Alquiler de vehículos.
@@ -512,13 +512,13 @@
               tbody
                 tr
                   th Departamento de alojamiento
-                  td Conformado por las áreas de recepción, conserjería y pisos. Es responsable de garantizar la calidad de la estancia, desde la reserva hasta el Check-out, incluyendo la supervisión del estado de las habitaciones.
+                  td Conformado por las áreas de recepción, conserjería y pisos. Es responsable de garantizar la calidad de la estancia, desde la reserva hasta el #[em Check-out], incluyendo la supervisión del estado de las habitaciones.
                 tr
                   th Departamento de recepción
                   td Administra el ingreso, permanencia y salida de los huéspedes. Además, centraliza la atención de solicitudes, reclamos o necesidades especiales, y coordina la información diaria que se transmite a otras áreas del hotel. Brinda servicios como botones, conserjería y llamadas de despertador.
                 tr
                   th Departamento de alimentos y bebidas
-                  td Encargado de gestionar el restaurante, cocina, banquetes, barras, room service y utilería. Representa una de las principales fuentes de ingresos complementarios del hotel.
+                  td Encargado de gestionar el restaurante, cocina, banquetes, barras, #[em room service] y utilería. Representa una de las principales fuentes de ingresos complementarios del hotel.
                 
                 tr
                   th Área de lavandería

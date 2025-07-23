@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Alojamiento, todo un universo por descubrir',
     Description:
-      'Los fundamentos normativos, técnicos y operativos del proceso de Check-in en establecimientos de alojamiento turístico, abordan aspectos clave como la categorización hotelera por estrellas, los tipos de habitaciones y sus características según la categoría, la estructura organizacional del área de recepción, los perfiles del huésped, y el portafolio de servicios complementarios ofrecidos por los hoteles. Todo esto permite comprender los estándares que garantizan la calidad, seguridad y experiencia del cliente en el sector hotelero colombiano.',
+      'Los fundamentos normativos, técnicos y operativos del proceso de <i>Check-in</i> en establecimientos de alojamiento turístico, abordan aspectos clave como la categorización hotelera por estrellas, los tipos de habitaciones y sus características según la categoría, la estructura organizacional del área de recepción, los perfiles del huésped, y el portafolio de servicios complementarios ofrecidos por los hoteles. Todo esto permite comprender los estándares que garantizan la calidad, seguridad y experiencia del cliente en el sector hotelero colombiano.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -312,7 +312,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Edison Eduardo Mantilla Cuadros',
+          nombre: 'Marcos Yamid Rubiano Avellaneda',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },

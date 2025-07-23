@@ -88,7 +88,7 @@
                 img.fit(src='@/assets/curso/Tema3/7.png' alt='')
               .col-lg-9
                 h5.text-center.bg2.p-2.text-white Parejas
-              p.text-center Buscan privacidad, escapadas románticas y experiencias personalizadas como cenas privadas, spas o ambientación especial.
+              p.text-center Buscan privacidad, escapadas románticas y experiencias personalizadas como cenas privadas, #[em spas] o ambientación especial.
           .tarjeta.fondot3_3.p-3
             .row.justify-content-center
               .col-4.mb-3

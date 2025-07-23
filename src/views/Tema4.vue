@@ -14,10 +14,10 @@
               :style="{'background-image': `url(${require('@/assets/curso/Tema4/img01.png')})`}"
               )
             .bloque-texto-g__texto.p-4
-              p.mb-0 La recepción hotelera, también conocida como front office, constituye el núcleo operativo del establecimiento, al ser el primer y principal punto de contacto entre el huésped y el hotel; como departamento desempeña un papel estratégico en la experiencia del cliente y en la coordinación interna del servicio.
+              p.mb-0 La recepción hotelera, también conocida como #[em front office], constituye el núcleo operativo del establecimiento, al ser el primer y principal punto de contacto entre el huésped y el hotel; como departamento desempeña un papel estratégico en la experiencia del cliente y en la coordinación interna del servicio.
               br
               br
-              p Entre sus funciones principales se encuentran la gestión de Check-in y Check-out, la administración de reservas, la atención de llamadas telefónicas, y la respuesta oportuna a solicitudes especiales de los huéspedes. Los recepcionistas deben ejecutar múltiples tareas de forma simultánea, garantizando un servicio ágil, cordial y eficiente que contribuya a la satisfacción y fidelización del cliente.
+              p Entre sus funciones principales se encuentran la gestión de #[em Check-in] y #[em Check-out], la administración de reservas, la atención de llamadas telefónicas, y la respuesta oportuna a solicitudes especiales de los huéspedes. Los recepcionistas deben ejecutar múltiples tareas de forma simultánea, garantizando un servicio ágil, cordial y eficiente que contribuya a la satisfacción y fidelización del cliente.
               br
               br
 
@@ -86,7 +86,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.bg1.p-4
       .col-lg-12
-        p.mb-0 En el área de #[em front office], los cargos se estructuran jerárquicamente para garantizar una operación eficiente; en el nivel directivo se encuentra el “Jefe de recepción”, encargado de la gestión global del área. En el nivel operativo están los “Recepcionistas”, quienes ejecutan las tareas de atención directa al huésped y gestión diaria del servicio.
+        p.mb-0 En el área de #[em front office], los cargos se estructuran jerárquicamente para garantizar una operación eficiente; en el nivel directivo se encuentra el “#[b Jefe de recepción]”, encargado de la gestión global del área. En el nivel operativo están los “#[b Recepcionistas]”, quienes ejecutan las tareas de atención directa al huésped y gestión diaria del servicio.
 
     .row.align-items-center.mb-4
       .col-lg-12.fondotitulo.p-3
@@ -302,7 +302,7 @@
 
                   li.d-flex.mb-1
                     i.fas.fa-star
-                    p.mb-0 Manejo competente de herramientas tecnológicas y software especializado en reservas, facturación y control de huéspedes.
+                    p.mb-0 Manejo competente de herramientas tecnológicas y #[em software] especializado en reservas, facturación y control de huéspedes.
                   li.d-flex.mb-1
                     i.fas.fa-star
                     p.mb-0 Conocimiento detallado del portafolio de servicios del hotel.

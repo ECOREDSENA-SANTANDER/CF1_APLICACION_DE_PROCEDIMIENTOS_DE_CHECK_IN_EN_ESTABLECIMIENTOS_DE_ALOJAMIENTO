@@ -8,72 +8,93 @@
       h1 Tipos de habitaciones y sus características
 
     p.mb-4 Dentro de los establecimientos de alojamiento y hospedaje encontramos los siguientes tipos de habitaciones con sus características:
-
-    .row.justify-content-center.mb-0(data-aos="flip-up")
-      .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
-        TabsA.color-acento-botones
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación sencilla")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Diseñada para alojar a una persona. Generalmente está equipada con una cama individual cuyas dimensiones estándar son 1,00 m de ancho por 1,90 m de largo.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img01.png', alt='')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+         SlyderF.circl-arrow.mb-4(columnas="col-lg-4 col-md-6")
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/1.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación sencilla
+              p.text-center Diseñada para alojar a una persona. Generalmente está equipada con una cama individual cuyas dimensiones estándar son 1,00 m de ancho por 1,90 m de largo.
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/2.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación doble
+              p.text-center Apta para dos personas. Puede contar con una cama doble de 1,40 m x 1,90 m o con dos camas sencillas de 1,00 m x 1,90 m. Cuando dispone de dos camas sencillas, también se denomina habitación twin.
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación doble")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Apta para dos personas. Puede contar con una cama doble de 1,40 m x 1,90 m o con dos camas sencillas de 1,00 m x 1,90 m. Cuando dispone de dos camas sencillas, también se denomina habitación twin.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img02.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/3.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación triple
+              p.text-center Configurada para tres personas. Comúnmente incluye una cama doble y una cama sencilla, o tres camas sencillas de 1,00 m x 1,90 m
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación triple")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Configurada para tres personas. Comúnmente incluye una cama doble y una cama sencilla, o tres camas sencillas de 1,00 m x 1,90 m.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img03.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/4.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación cuádruple
+              p.text-center Capacidad para cuatro personas. Su configuración varía entre dos camas dobles, una cama doble con dos sencillas, cuatro camas sencillas o combinaciones con camarotes.
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación cuádruple")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Capacidad para cuatro personas. Su configuración varía entre dos camas dobles, una cama doble con dos sencillas, cuatro camas sencillas o combinaciones con camarotes.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img04.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/5.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación quíntuple
+              p.text-center Diseñada para alojar a cinco personas. Las posibles distribuciones incluyen dos camas dobles y una sencilla, una cama doble con tres sencillas, o cinco camas sencillas, pudiendo incorporar camarotes.
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación quíntuple")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Diseñada para alojar a cinco personas. Las posibles distribuciones incluyen dos camas dobles y una sencilla, una cama doble con tres sencillas, o cinco camas sencillas, pudiendo incorporar camarotes.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img05.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/6.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación familiar
+              p.text-center Destinada a grupos de 6 a 7 personas. Su mobiliario puede incluir combinaciones de camas dobles, sencillas y/o camarotes, según el diseño del establecimiento.
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación familiar")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Destinada a grupos de 6 a 7 personas. Su mobiliario puede incluir combinaciones de camas dobles, sencillas y/o camarotes, según el diseño del establecimiento.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img06.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/7.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación matrimonial
+              p.text-center Diseñada para parejas. En hoteles de 3 a 5 estrellas, se equipa con cama #[em queen size] (1,60 m x 1,90 m). En hoteles de 1 y 2 estrellas, la cama tiene medidas estándar de 1,40 m x 1,90 m.
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación matrimonial")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Diseñada para parejas. En hoteles de 3 a 5 estrellas, se equipa con cama #[em queen size] (1,60 m x 1,90 m). En hoteles de 1 y 2 estrellas, la cama tiene medidas estándar de 1,40 m x 1,90 m.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img07.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/8.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación #[em junior suite]
+              p.text-center Unidad que combina una habitación estándar con un salón adicional. Permite alojar más personas mediante camas auxiliares o sofá camas. Se encuentra en establecimientos de 3 a 5 estrellas.
+              
           
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación junior suite")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Unidad que combina una habitación estándar con un salón adicional. Permite alojar más personas mediante camas auxiliares o sofá camas. Se encuentra en establecimientos de 3 a 5 estrellas.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img08.png', alt='')
-          
-          .tarjeta.color-acento-botones.bg3.p-4(titulo="Habitación suite")
-            .row.justify-content-center.align-items-center.mb-2
-              .col-lg-7
-                p.txt Unidad de alojamiento de alta gama. Dispone de dos habitaciones, salón con área de estar y comedor, y dos baños. Tiene capacidad para hasta seis personas y es propia de hoteles de 3 a 5 estrellas.
-              .col-lg-5.col-11.col-md-9
-                img(src='@/assets/curso/Tema2/img09.png', alt='')
+          .tarjeta.bg9.p-3
+            .row.justify-content-center
+              .col-7.mb-3.col-lg-7
+                br
+                img.fit(src='@/assets/curso/Tema2/9.png' alt='')
+              .col-lg-9
+                h5.text-center.bg2.p-1.text-white Habitación #[em suite]
+              p.text-center Unidad de alojamiento de alta gama. Dispone de dos habitaciones, salón con área de estar y comedor, y dos baños. Tiene capacidad para hasta seis personas y es propia de hoteles de 3 a 5 estrellas.
+         
+    
+    
+   
 
     separador
     #t_2_1.titulo-segundo.mb-5
@@ -377,7 +398,7 @@
                     ul.lista-ul--color
                       li.d-flex
                         i.fas.fa-star
-                        p Cama doble (1,40 m x 1,90 m) o cama queen (1,60 m x 1,90 m).
+                        p Cama doble (1,40 m x 1,90 m) o cama #[em queen] (1,60 m x 1,90 m).
                       li.d-flex
                         i.fas.fa-star
                         p Escritorio con silla ejecutiva.
@@ -440,7 +461,7 @@
                         p.mb-0 Juego completo de toallas (cuerpo, manos, facial) y salida de baño (bata).
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .bloque-texto-g.bg5.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -455,7 +476,7 @@
     #t_2_2.titulo-segundo.mb-5
       h2 2.2  #[em Amenities] para habitaciones
 
-    p.mb-4 Los amenities son artículos de acogida dispuestos en las habitaciones para uso gratuito de los huéspedes, con el propósito de brindar una bienvenida cálida y mejorar su experiencia durante la estancia. El término proviene del inglés amenity, que hace referencia a comodidades, confort o servicios que contribuyen al bienestar y satisfacción del usuario.
+    p.mb-4 Los #[em amenities] son artículos de acogida dispuestos en las habitaciones para uso gratuito de los huéspedes, con el propósito de brindar una bienvenida cálida y mejorar su experiencia durante la estancia. El término proviene del inglés amenity, que hace referencia a comodidades, confort o servicios que contribuyen al bienestar y satisfacción del usuario.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-5.bg1.p-4.mb-3
@@ -467,7 +488,7 @@
           .col-lg-2.mb-2.d-none.d-lg-block
             img(src='@/assets/curso/Tema2/img15.png', alt='')
           .col-lg-12
-            p Además de los productos de higiene, algunos establecimientos complementan los amenities con detalles especiales durante la estancia, tales como botellas de champán, dulces típicos, chocolates artesanales u obsequios temáticos, con el fin de generar una experiencia personalizada y memorable.
+            p Además de los productos de higiene, algunos establecimientos complementan los #[em amenities] con detalles especiales durante la estancia, tales como botellas de champán, dulces típicos, chocolates artesanales u obsequios temáticos, con el fin de generar una experiencia personalizada y memorable.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-5.mb-3.col-11.col-md-9
         img(src='@/assets/curso/Tema2/img16.png', alt='')
