@@ -26,7 +26,7 @@
                 img.fit(src='@/assets/curso/Tema2/2.png' alt='')
               .col-lg-9
                 h5.text-center.bg2.p-1.text-white Habitación doble
-              p.text-center Apta para dos personas. Puede contar con una cama doble de 1,40 m x 1,90 m o con dos camas sencillas de 1,00 m x 1,90 m. Cuando dispone de dos camas sencillas, también se denomina habitación twin.
+              p.text-center Apta para dos personas. Puede contar con una cama doble de 1,40 m x 1,90 m o con dos camas sencillas de 1,00 m x 1,90 m. Cuando dispone de dos camas sencillas, también se denomina habitación #[em twin].
           
           .tarjeta.bg9.p-3
             .row.justify-content-center
@@ -476,7 +476,7 @@
     #t_2_2.titulo-segundo.mb-5
       h2 2.2  #[em Amenities] para habitaciones
 
-    p.mb-4 Los #[em amenities] son artículos de acogida dispuestos en las habitaciones para uso gratuito de los huéspedes, con el propósito de brindar una bienvenida cálida y mejorar su experiencia durante la estancia. El término proviene del inglés amenity, que hace referencia a comodidades, confort o servicios que contribuyen al bienestar y satisfacción del usuario.
+    p.mb-4 Los #[em amenities] son artículos de acogida dispuestos en las habitaciones para uso gratuito de los huéspedes, con el propósito de brindar una bienvenida cálida y mejorar su experiencia durante la estancia. El término proviene del inglés #[em amenity], que hace referencia a comodidades, confort o servicios que contribuyen al bienestar y satisfacción del usuario.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-5.bg1.p-4.mb-3

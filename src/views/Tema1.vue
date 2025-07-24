@@ -569,7 +569,7 @@
                     ul.lista-ul--color
                         li.d-flex
                           i.fas.fa-star
-                          p.mb-0  #[em] Tours guiados a sitios de interés.
+                          p.mb-0  #[em Tours] guiados a sitios de interés.
                         li.d-flex
                           i.fas.fa-star
                           p.mb-0   Senderismo.
