@@ -377,7 +377,7 @@
       .row.align-items-center
         .col-md-auto.col-2
           img(src='@/assets/curso/Tema4/01.png', alt='')
-        .col-md-auto.col-10.ps-0
+        .col-md-auto.col-10.ps-0.p-2
           h3.mb-0.text-white Secciones del #[em front office]
 
     p.mb-4 El #[em front office] se estructura generalmente en diversas unidades funcionales, cada una con responsabilidades específicas para garantizar un servicio eficiente:

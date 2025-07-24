@@ -95,7 +95,7 @@
             img(src='@/assets/curso/Tema4/01.png', alt='')
           .col-md-auto.col-10.ps-0
             h3.mb-0.text-white Recepción: requisitos de planta según categoría hotelera (según NTSH-006)
-
+      
       p.mb-4  El establecimiento debe, como mínimo garantizar las siguientes condiciones:
 
       .row.justify-content-center.align-items-center.mb-5
