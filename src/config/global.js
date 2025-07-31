@@ -217,7 +217,7 @@ export default {
     {
       termino: 'Mozo',
       significado:
-        'Mozo/camarero de salón que atiende en el comedor o restaurante, tomando pedidos y sirviendo alimentos y bebidas. ',
+        'Mozo / camarero de salón que atiende en el comedor o restaurante, tomando pedidos y sirviendo alimentos y bebidas. ',
     },
     {
       termino: '<i>Room service</i>',
@@ -233,17 +233,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación [ICONTEC]. (2009). Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos. https://www.mincit.gov.co/getattachment/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales/nts-alojamiento-y-hospedaje-1/norma-tecnica-sectorial-colombiana-ntsh-006-i-actu/norma-tecnica-sectorial-colombiana-ntsh-006-i.pdf.aspx',
-      link: '',
+        'Instituto Colombiano de Normas Técnicas y Certificación [ICONTEC]. (2009). Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos.',
+      link:
+        'https://www.mincit.gov.co/getattachment/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales/nts-alojamiento-y-hospedaje-1/norma-tecnica-sectorial-colombiana-ntsh-006-i-actu/norma-tecnica-sectorial-colombiana-ntsh-006-i.pdf.aspx',
     },
     {
       referencia:
-        'Cuboshomes. (2022). ¿Qué son los amenities y por qué son importantes? - Blog Cubos Holiday Homes. Blog Cubo’s Holiday Homes. https://www.cuboshomes.com/blog/que-son-los-amenities-y-por-que-son-importantes/',
-      link: '',
+        'Cuboshomes. (2022). ¿Qué son los amenities y por qué son importantes? - Blog Cubos Holiday Homes.',
+      link:
+        'https://www.cuboshomes.com/blog/que-son-los-amenities-y-por-que-son-importantes/',
     },
     {
       referencia:
-        'Moshé, K., & Lastor, C. (2024). Diseño de sistema de señalética para indicar a los huéspedes reales y potenciales, las diferentes áreas internas y externas del Hotel California Pacific Palm. Escuintla, Guatemala, 2023 (Doctoral dissertation). ',
+        'Moshé, K., & Lastor, C. (2024). Diseño de sistema de señalética para indicar a los huéspedes reales y potenciales, las diferentes áreas internas y externas del Hotel California Pacific Palm [Tesis de Doctorado]. Escuintla, Guatemala.',
       link: '',
     },
     {
@@ -253,18 +255,18 @@ export default {
     },
     {
       referencia:
-        'Cloudbeds. (2024). 10 tipos de huéspedes de hotel: ejemplos y perfiles de clientes. Cloudbeds. https://www.cloudbeds.com/es/articulos/tipos-huespedes-hotel/ ',
-      link: '',
+        'Cloudbeds. (2024). 10 tipos de huéspedes de hotel: ejemplos y perfiles de clientes. Cloudbeds. ',
+      link: 'https://www.cloudbeds.com/es/articulos/tipos-huespedes-hotel/',
     },
     {
       referencia:
-        'Chan, Z. (2016). Estructura organizacional de recepción. www.academia.edu. https://www.academia.edu/28413740/Estructura_organizacional_de_recepci%C3%B3n ',
-      link: '',
+        'Chan, Z. (2016). Estructura organizacional de recepción. Academia. ',
+      link:
+        'https://www.academia.edu/28413740/Estructura_organizacional_de_recepci%C3%B3n',
     },
     {
-      referencia:
-        'Educaweb. (s. f.). Recepcionista de hotel. Educaweb. https://www.educaweb.com/profesion/recepcionista-hotel-130/',
-      link: '',
+      referencia: 'Educaweb. (s. f.). Recepcionista de hotel. Educaweb.',
+      link: 'https://www.educaweb.com/profesion/recepcionista-hotel-130/',
     },
     {
       referencia:
@@ -337,7 +339,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

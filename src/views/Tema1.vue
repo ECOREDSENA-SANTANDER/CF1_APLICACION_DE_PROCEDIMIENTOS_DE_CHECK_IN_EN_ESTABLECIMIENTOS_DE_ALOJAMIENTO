@@ -27,20 +27,27 @@
             img(src="@/assets/curso/Tema1/img02.png")
           .col
             .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h4.mb-2 Ley 300 de 1996. 
+              .col.mb-1.mb-sm-0
+                ul.lista-ul
+                  li.d-flex.mb-1
+                    i.fas.fa-circle-check
+                    h4.mb-0 Ley 300 de 1996. 
               .col-sm-auto.mb-2
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=8634#300" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-download
             .row.justify-content-between.align-items-center  
-              .col.mb-3.mb-sm-0
-                h4.mb-2 Modificada por: Ley 1558 de 2012.
-                p.mb-0.bg8 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
-              .col-sm-auto
+              .col.mb-1.mb-sm-0
+                ul.lista-ul
+                  li.d-flex.mb-1
+                    i.fas.fa-circle-check
+                    h4.mb-0 Modificada por: Ley 1558 de 2012.
+              .col-sm-auto.mb-4
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48321" target="_blank")
                   span Ir al sitio 
-                  i.fas.fa-file-download
+                  i.fas.fa-file-download 
+              p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
+              
       
       .row.justify-content-center.align-items-center.mb-5.fondot4(data-aos="fade-down")
         .col-lg-12.p-4
@@ -282,7 +289,7 @@
                     li
                     .lista-ol--cuadro__vineta
                       span g
-                    p.mb-0Tener un área amplia y cerrada destinada a la custodia segura del equipaje, con sistemas de identificación que aseguren su correcta entrega.
+                    p.mb-0Tener Tener un área amplia y cerrada destinada a la custodia segura del equipaje, con sistemas de identificación que aseguren su correcta entrega.
 
       p.mb-3 La presente norma tiene como objeto definir la clasificación de los establecimientos de alojamiento y hospedaje, mediante la categorización por estrellas para los hoteles en las modalidades 1, 2, 3, 4 y 5, de acuerdo con los requisitos de planta, de accesibilidad y de servicio.
 
@@ -302,7 +309,7 @@
                       i.fas.fa-file-download
                 .row.justify-content-between.align-items-center  
                   .col.mb-3.mb-sm-0
-                    p.mb-0.bg8 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
+                    p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
         .col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/Tema1/img10.png', alt='')
 
@@ -321,7 +328,7 @@
                   p El portafolio de servicios es un documento institucional, físico o digital, conocido como #[em brochure], el cual reúne de manera organizada y detallada la oferta de servicios que presta un establecimiento de alojamiento y hospedaje, en concordancia con los diferentes departamentos que lo integran. Su propósito principal es comunicar a los clientes actuales y potenciales las ventajas, beneficios y alcances de los servicios disponibles, funcionando como una herramienta de presentación y posicionamiento comercial.
           .row 
             .col-lg-12 
-              p establecimiento, incluyendo aspectos como el nombre comercial, años de operación, misión, visión, objetivos organizacionales, socios estratégicos, proveedores, clientes atendidos y datos de contacto, entre otros elementos relevantes (Carvajal, 2016).
+              p Además de describir los servicios, este documento proporciona información clave sobre la identidad y trayectoria del establecimiento, incluyendo aspectos como el nombre comercial, años de operación, misión, visión, objetivos organizacionales, socios estratégicos, proveedores, clientes atendidos y datos de contacto, entre otros elementos relevantes (Carvajal, 2016).
               p El portafolio no solo facilita la toma de decisiones por parte del cliente, sino que también proyecta la imagen institucional del establecimiento, fortaleciendo su credibilidad y diferenciación en el mercado.
         .col-lg-3.col-7.col-md-5
           img(src='@/assets/curso/Tema1/img12.png', alt='')
@@ -339,7 +346,7 @@
                   
                 .row.justify-content-between.align-items-center  
                   .col.mb-3.mb-sm-0
-                    p.mb-0.bg8 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
+                    p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://youtu.be/mkIdPKBfpXc" target="_blank")
                   span Ir al sitio

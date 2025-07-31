@@ -306,7 +306,7 @@
                         :style="{'background-image': `url(${require('@/assets/curso/Tema2/img12.png')})`}"
                       )
                       .bloque-texto-g__texto.p-4
-                        p.mb-0 #[b Nota:] este tipo de hotel debe contar con al menos una habitación tipo #[em junior suite] y una #[em tipo suite.]
+                        p.mb-0 #[b Nota:] este tipo de hotel debe contar con al menos una habitación tipo #[em junior suite] y una tipo #[em suite.]
                           br
                           br
                          
