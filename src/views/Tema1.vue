@@ -348,7 +348,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://youtu.be/mkIdPKBfpXc" target="_blank")
+                a.boton.color-acento-botones(href="https://youtu.be/SChRoy-m1KE" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-download  
         .col-lg-3.mb-3.d-none.d-lg-block
