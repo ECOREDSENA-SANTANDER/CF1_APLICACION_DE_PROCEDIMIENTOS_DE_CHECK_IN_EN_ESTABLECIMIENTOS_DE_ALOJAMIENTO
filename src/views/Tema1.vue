@@ -623,7 +623,7 @@
                   
                 .row.justify-content-between.align-items-center  
                   .col.mb-3.mb-sm-0
-                    p.mb-0.bg8 Revise un ejemplo de portafolio de servicios de establecimiento de alojamiento:
+                    p.mb-0 Revise un ejemplo de portafolio de servicios de establecimiento de alojamiento:
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://bespokecolombia.com/wp-content/uploads/2019/05/Portafolio-hotel-la-gloria.pdf" target="_blank")
                   span Descargar
