@@ -17,7 +17,7 @@
               p.mb-0 La recepción hotelera, también conocida como #[em front office], constituye el núcleo operativo del establecimiento, al ser el primer y principal punto de contacto entre el huésped y el hotel; como departamento desempeña un papel estratégico en la experiencia del cliente y en la coordinación interna del servicio.
               br
               br
-              p Entre sus funciones principales se encuentran la gestión de #[em Check-in] y #[em Check-out], la administración de reservas, la atención de llamadas telefónicas, y la respuesta oportuna a solicitudes especiales de los huéspedes. Los recepcionistas deben ejecutar múltiples tareas de forma simultánea, garantizando un servicio ágil, cordial y eficiente que contribuya a la satisfacción y fidelización del cliente.
+              p Entre sus funciones principales se encuentran la gestión de #[em check-in] y #[em check-out], la administración de reservas, la atención de llamadas telefónicas, y la respuesta oportuna a solicitudes especiales de los huéspedes. Los recepcionistas deben ejecutar múltiples tareas de forma simultánea, garantizando un servicio ágil, cordial y eficiente que contribuya a la satisfacción y fidelización del cliente.
               br
               br
 
@@ -44,7 +44,7 @@
             p.mb-0 Asignación de habitaciones, función realizada por el #[em  Rooms Controller].
           li.d-flex.mb-1
             i.fas.fa-star
-            p.mb-0 Registro de entrada o #[em Check-in.]
+            p.mb-0 Registro de entrada o #[em check-in.]
           li.d-flex.mb-1
             i.fas.fa-star
             p.mb-0 Servicio de cambio de divisas.
@@ -62,7 +62,7 @@
             p.mb-0 Resolución de quejas, conflictos o solicitudes especiales.
           li.d-flex.mb-1
             i.fas.fa-star
-            p.mb-0 Registro de salida o #[em Check-out], con cierre de cuenta.
+            p.mb-0 Registro de salida o #[em check-out], con cierre de cuenta.
           li.d-flex.mb-1
             i.fas.fa-star
             p.mb-0 Auditoría nocturna (turno de 23:00 a 07:00), que incluye cargos a habitaciones, consolidación de ingresos de los centros de consumo y elaboración de informes de cierre diario.
@@ -152,7 +152,7 @@
               p En caso de reservas anticipadas, debe verificar la información correspondiente, por ejemplo, si no se ha realizado una reserva previa, está encargado de informar sobre la disponibilidad, tarifas y condiciones. Para ello, emplea sistemas de gestión informatizados que almacenan datos sobre reservas, tarifas y ocupación; en establecimientos pequeños, esta gestión puede realizarse manualmente a través de casilleros físicos.
               br
               br
-              p Es habitual que los hoteles soliciten el pago anticipado o la garantía mediante tarjeta de crédito al momento del #[em Check-in.]
+              p Es habitual que los hoteles soliciten el pago anticipado o la garantía mediante tarjeta de crédito al momento del #[em check-in.]
     
     .row.align-items-center.mb-4
       .col-lg-12.fondotitulo1.p-3
@@ -169,7 +169,7 @@
 
           li.d-flex.mb-1
             i.fas.fa-star
-            p.mb-0 Realizar procesos de #[em Check-in y Check-out,] verificando la documentación de identidad del cliente.
+            p.mb-0 Realizar procesos de #[em check-in y check-out,] verificando la documentación de identidad del cliente.
 
 
           li.d-flex.mb-1
@@ -396,7 +396,7 @@
             .row.align-items-center.justify-content-center
               .col-md-6.mb-4.mb-md-0
                 h4.mb-4 Recepción
-                p Punto central de atención al cliente; gestiona #[em Check-in, Check-out], consultas, solicitudes y solución de inconvenientes.
+                p Punto central de atención al cliente; gestiona #[em check-in, check-out], consultas, solicitudes y solución de inconvenientes.
               .col-md-5.col-10
                 img(src='@/assets/curso/Tema4/img08.png', alt='')
             .row.align-items-center.justify-content-center

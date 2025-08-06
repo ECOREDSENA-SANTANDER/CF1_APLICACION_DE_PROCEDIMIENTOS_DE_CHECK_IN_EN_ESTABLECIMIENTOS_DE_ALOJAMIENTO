@@ -170,7 +170,7 @@
                 img.fit(src='@/assets/curso/Tema3/15.png' alt='')
               .col-lg-9
                 h5.text-center.bg2.p-2.text-white Huésped tecnófilo o digital
-              p.text-center Valora la automatización, los servicios digitales (#[em Check-in online,] domótica, asistentes virtuales) y conectividad continua.
+              p.text-center Valora la automatización, los servicios digitales (#[em check-in online,] domótica, asistentes virtuales) y conectividad continua.
           .tarjeta.fondot3_3.p-3
             .row.justify-content-center
               .col-4.mb-3

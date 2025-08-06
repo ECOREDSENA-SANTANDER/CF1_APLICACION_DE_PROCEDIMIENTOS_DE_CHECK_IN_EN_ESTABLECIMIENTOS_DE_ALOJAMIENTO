@@ -340,7 +340,7 @@ export default {
         },
         {
           nombre: 'Andrea Ardila Chaparro',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

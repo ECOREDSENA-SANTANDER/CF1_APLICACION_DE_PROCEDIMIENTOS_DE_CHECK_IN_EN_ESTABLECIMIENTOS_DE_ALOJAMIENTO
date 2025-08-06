@@ -342,7 +342,7 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h4.mb-2 Definición del portafolio
+                    h4.mb-2 Portafolio de servicios en establecimientos de alojamiento
                   
                 .row.justify-content-between.align-items-center  
                   .col.mb-3.mb-sm-0
@@ -519,7 +519,7 @@
               tbody
                 tr
                   th Departamento de alojamiento
-                  td Conformado por las áreas de recepción, conserjería y pisos. Es responsable de garantizar la calidad de la estancia, desde la reserva hasta el #[em Check-out], incluyendo la supervisión del estado de las habitaciones.
+                  td Conformado por las áreas de recepción, conserjería y pisos. Es responsable de garantizar la calidad de la estancia, desde la reserva hasta el #[em check-out], incluyendo la supervisión del estado de las habitaciones.
                 tr
                   th Departamento de recepción
                   td Administra el ingreso, permanencia y salida de los huéspedes. Además, centraliza la atención de solicitudes, reclamos o necesidades especiales, y coordina la información diaria que se transmite a otras áreas del hotel. Brinda servicios como botones, conserjería y llamadas de despertador.
