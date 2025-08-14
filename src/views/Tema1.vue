@@ -63,7 +63,7 @@
         .col-lg-5.mb-3.col-10
           img(src='@/assets/curso/Tema1/11.png', alt='')
         .col-lg-7
-          p Existen diversas categorías hoteleras que se determinan con base en las comodidades, servicios e infraestructura ofrecidos al huésped, aspectos que inciden directamente en su nivel de confort y bienestar. El sistema de clasificación más común es el de estrellas, en el cual un hotel de cinco estrellas representa el estándar más alto de calidad y servicio, mientras que uno de una estrella ofrece condiciones básicas y limitadas.
+          p Existen diversas categorías hoteleras que se determinan con base en las comodidades, servicios e infraestructura ofrecidos al huésped, aspectos que inciden directamente en su nivel de confort y bienestar. En Colombia, el sistema de clasificación hotelera más utilizado es el de estrellas, regulado por la normativa técnica sectorial correspondiente. Bajo este esquema, un establecimiento de cinco estrellas se asocia con el nivel más alto de calidad, infraestructura, dotación y servicio, cumpliendo estándares exigentes en confort, atención y oferta de servicios complementarios. En contraste, un hotel de una estrella proporciona condiciones básicas y limitadas, enfocadas en cubrir únicamente las necesidades esenciales de alojamiento. 
           p Este sistema de estrellas permite categorizar los establecimientos en función de sus prestaciones, servicios e instalaciones. Sin embargo, es importante destacar que en otros países existen sistemas alternativos de clasificación, como el uso de letras o símbolos (por ejemplo, diamantes). 
           .row.justify-content-center.align-items-center.mb-0.fondot4(data-aos="fade-down")
             .col-lg-12.p-3
