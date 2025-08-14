@@ -485,8 +485,6 @@
         img(src='@/assets/curso/Tema2/img14.png', alt='')
       .col-lg-4
         .row.align-items-center
-          .col-lg-2.mb-2.d-none.d-lg-block
-            img(src='@/assets/curso/Tema2/img15.png', alt='')
           .col-lg-12
             p Además de los productos de higiene, algunos establecimientos complementan los #[em amenities] con detalles especiales durante la estancia, tales como botellas de champán, dulces típicos, chocolates artesanales u obsequios temáticos, con el fin de generar una experiencia personalizada y memorable.
     .row.justify-content-center.align-items-center.mb-3

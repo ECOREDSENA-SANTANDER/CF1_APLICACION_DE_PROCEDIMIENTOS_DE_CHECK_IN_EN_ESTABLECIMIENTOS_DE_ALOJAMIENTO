@@ -28,6 +28,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-1.mb-sm-0
+                p.mb-3 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
                 ul.lista-ul
                   li.d-flex.mb-1
                     i.fas.fa-circle-check
@@ -35,7 +36,7 @@
               .col-sm-auto.mb-2
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=8634#300" target="_blank")
                   span Ir al sitio
-                  i.fas.fa-file-download
+                  i.fas.fa-link
             .row.justify-content-between.align-items-center  
               .col.mb-1.mb-sm-0
                 ul.lista-ul
@@ -45,8 +46,8 @@
               .col-sm-auto.mb-4
                 a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48321" target="_blank")
                   span Ir al sitio 
-                  i.fas.fa-file-download 
-              p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
+                  i.fas.fa-link
+             
               
       
       .row.justify-content-center.align-items-center.mb-5.fondot4(data-aos="fade-down")
@@ -294,24 +295,23 @@
       p.mb-3 La presente norma tiene como objeto definir la clasificación de los establecimientos de alojamiento y hospedaje, mediante la categorización por estrellas para los hoteles en las modalidades 1, 2, 3, 4 y 5, de acuerdo con los requisitos de planta, de accesibilidad y de servicio.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-9
+        .col-lg-12
           .tarjeta.color-primario.p-4.mb-4(data-aos="fade-right")
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/Tema1/img002.png")
+                img(src="@/assets/curso/Tema1/img003.png")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-2 Norma Técnica Sectorial Colombiana NTSH 006, primera actualización. Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos. 2009.
                   .col-sm-auto.mb-2
                     a.boton.color-acento-botones(href="https://fontur.com.co/sites/default/files/2020-11/NTSH006.pdf" target="_blank")
-                      span Descargar
-                      i.fas.fa-file-download
+                      span Ir al sitio
+                      i.fas.fa-link
                 .row.justify-content-between.align-items-center  
                   .col.mb-3.mb-sm-0
                     p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:             
-        .col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/Tema1/img10.png', alt='')
+  
 
       separador
       #t_1_2.titulo-segundo.mb-5
@@ -334,7 +334,7 @@
           img(src='@/assets/curso/Tema1/img12.png', alt='')
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-9
+        .col-lg-12
           .tarjeta.color-primario.p-4.mb-4(data-aos="fade-right")
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
@@ -350,9 +350,8 @@
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://youtu.be/SChRoy-m1KE" target="_blank")
                   span Ir al sitio
-                  i.fas.fa-file-download  
-        .col-lg-3.mb-3.d-none.d-lg-block
-          img(src='@/assets/curso/Tema1/img10.png', alt='')
+                  i.fas.fa-link
+      
 
         p El portafolio de servicios de un establecimiento hotelero incluye una oferta diferenciada de servicios complementarios, los cuales varían según la categoría del hotel; esta oferta responde tanto a las necesidades básicas de los huéspedes como a su expectativa de confort, bienestar y recreación durante su estancia.
 
@@ -626,8 +625,8 @@
                     p.mb-0 Revise un ejemplo de portafolio de servicios de establecimiento de alojamiento:
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://bespokecolombia.com/wp-content/uploads/2019/05/Portafolio-hotel-la-gloria.pdf" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download  
+                  span Ir al sitio
+                  i.fas.fa-link 
 
 
 

@@ -22,7 +22,7 @@
       .col-lg-3.col-6.mb-3.col-md-5
         img(src='@/assets/curso/Tema3/img02.png', alt='')
       .col-lg-8.col-10
-        SlyderF.circl-arrow.mb-4(columnas="col-lg-5 col-md-6")
+        SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-md-6")
           .tarjeta.fondot3_3.p-3
             .row.justify-content-center
               .col-4.mb-3
@@ -118,9 +118,11 @@
               p.text-center Personas mayores que valoran el confort, la accesibilidad, la seguridad y una atención más personalizada.
           .tarjeta.fondot3_3.p-3
             .row.justify-content-center
+              .col-4.mb-3
+                br
+                br
+                img.fit(src='@/assets/curso/Tema3/huesped.svg' alt='')
               .col-lg-9
-                br
-                br
                 h5.text-center.bg2.p-2.text-white Huésped por generación
               p.text-center Las preferencias varían según el grupo etario:
               p #[b Generación Z:] alta dependencia tecnológica, valoran la autenticidad.

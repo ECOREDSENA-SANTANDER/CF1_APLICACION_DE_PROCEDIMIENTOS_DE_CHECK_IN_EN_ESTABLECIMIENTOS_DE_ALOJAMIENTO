@@ -274,6 +274,11 @@ export default {
       link: '',
     },
     {
+      referencia: 'Hotel La Gloria. (2019). Bespoke Colombia. ',
+      link:
+        ' https://bespokecolombia.com/wp-content/uploads/2019/05/Portafolio-hotel-la-gloria.pdf',
+    },
+    {
       referencia:
         'Calle, M., Lazo, A., & Granados, M. (2018). Gestión del sector alojamiento-Hotel. Machala: UTMACH. ',
       link: '',
